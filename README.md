@@ -1,2 +1,2 @@
-# Exerc-cios_EBAC
+# Exercícios_EBAC
 Repositório para exercícios de QA 
